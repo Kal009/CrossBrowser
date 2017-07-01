@@ -2,82 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1905e97-db71-4a36-acae-ffe61fbcc958" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__cglib_cglib_nodep_3_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__com_google_code_gson_gson_2_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__com_google_guava_guava_21_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__info_cukes_cucumber_core_1_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__info_cukes_cucumber_html_0_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__info_cukes_cucumber_java_1_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__info_cukes_cucumber_junit_1_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__info_cukes_cucumber_jvm_deps_1_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__info_cukes_gherkin_2_12_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_22.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_26.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_26.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_25.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__org_eclipse_jetty_jetty_client_9_4_3_v20170317.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_4_3_v20170317.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_1_v20170120.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_1_v20170120.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_4_3_v20170317.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_4_3_v20170317.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_4_3_v20170317.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__org_seleniumhq_selenium_htmlunit_driver_2_26.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__org_seleniumhq_selenium_jetty_repacked_9_4_1_v20170120.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_server_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__org_yaml_snakeyaml_1_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/libraries/testng_6_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/src/main/java/com/BrowserFectory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/src/main/java/com/bbc/BBC_Homepage/B_homepage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/src/main/java/com/bbc/Basepage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/src/main/java/com/bbc/InterfacejPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/src/main/java/com/bbc/News/Newspage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/src/test/Resources/BBC_Home/bbc_home.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/src/test/java/com/bbc/BBC_Homepage/News_Homepage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/src/test/java/com/bbc/Basesteps.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/src/test/java/com/bbc/Commonsteps.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/src/test/java/com/bbc/Kal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/testBBC.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testBBC/testng.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../testBBC/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../testBBC/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../testBBC/src/test/Resources/BBC_Home/bbc_home.feature" afterPath="$PROJECT_DIR$/../testBBC/src/test/Resources/BBC_Home/bbc_home.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../testBBC/src/test/java/com/bbc/BBC_Homepage/News_Homepage.java" afterPath="$PROJECT_DIR$/../testBBC/src/test/java/com/bbc/BBC_Homepage/News_Homepage.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../testBBC/out/" />
     <ignored path="$PROJECT_DIR$/../testBBC/target/" />
@@ -104,8 +31,8 @@
       <file leaf-file-name="bbc_home.feature" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../testBBC/src/test/Resources/BBC_Home/bbc_home.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="102">
+              <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -146,28 +73,30 @@
       <file leaf-file-name="B_homepage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../testBBC/src/main/java/com/bbc/BBC_Homepage/B_homepage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
+            <state relative-caret-position="331">
               <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="News_Homepage.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="News_Homepage.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../testBBC/src/test/java/com/bbc/BBC_Homepage/News_Homepage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+            <state relative-caret-position="263">
+              <caret line="48" column="21" lean-forward="false" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BrowserFectory.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BrowserFectory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../testBBC/src/main/java/com/BrowserFectory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+            <state relative-caret-position="233">
+              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -222,13 +151,13 @@
         <option value="$PROJECT_DIR$/../testBBC/src/main/java/com/bbc/BBC_Homepage/B_homepage.java" />
         <option value="$PROJECT_DIR$/../testBBC/testng.xml" />
         <option value="$PROJECT_DIR$/../testBBC/src/test/MyStepdefs.java" />
-        <option value="$PROJECT_DIR$/../testBBC/src/test/Resources/BBC_Home/bbc_home.feature" />
         <option value="$PROJECT_DIR$/../testBBC/src/main/java/com/bbc/News/Newspage.java" />
         <option value="$PROJECT_DIR$/../testBBC/src/main/java/com/bbc/Basepage.java" />
         <option value="$PROJECT_DIR$/../testBBC/src/main/java/com/BrowserFectory.java" />
         <option value="$PROJECT_DIR$/../testBBC/src/test/java/com/bbc/Basesteps.java" />
-        <option value="$PROJECT_DIR$/../testBBC/src/test/java/com/bbc/BBC_Homepage/News_Homepage.java" />
         <option value="$PROJECT_DIR$/../testBBC/src/test/java/com/bbc/Commonsteps.java" />
+        <option value="$PROJECT_DIR$/../testBBC/src/test/Resources/BBC_Home/bbc_home.feature" />
+        <option value="$PROJECT_DIR$/../testBBC/src/test/java/com/bbc/BBC_Homepage/News_Homepage.java" />
       </list>
     </option>
   </component>
@@ -298,6 +227,64 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="testBBC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testBBC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testBBC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BBC_Home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testBBC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testBBC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testBBC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testBBC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -616,18 +603,17 @@
       <option name="presentableId" value="Default" />
       <updated>1497173986813</updated>
     </task>
+    <task id="LOCAL-00001" summary="New BBC Project">
+      <created>1498311972344</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1498311972344</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Kal - 2017.06.22 at 07h 45m 55s.xml">
-      <configuration name="Kal" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Kal - 2017.06.22 at 08h 02m 46s.xml">
-      <configuration name="Kal" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Kal - 2017.06.22 at 08h 29m 39s.xml">
-      <configuration name="Kal" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Kal - 2017.06.22 at 08h 31m 01s.xml">
       <configuration name="Kal" configurationId="JUnit" />
     </history-entry>
@@ -649,21 +635,30 @@
     <history-entry file="Kal - 2017.06.24 at 14h 34m 48s.xml">
       <configuration name="Kal" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Kal - 2017.06.24 at 14h 48m 05s.xml">
+      <configuration name="Kal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Kal - 2017.07.01 at 15h 58m 42s.xml">
+      <configuration name="Kal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Kal - 2017.07.01 at 16h 06m 21s.xml">
+      <configuration name="Kal" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1370" height="735" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32724252" sideWeight="0.61526716" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32724252" sideWeight="0.3847328" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3168" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.7740458" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.4908397" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3028065" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3129771" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -706,7 +701,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="New BBC Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="New BBC Project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -721,7 +717,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -780,7 +778,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -862,7 +862,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -925,14 +927,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../testBBC/src/test/Resources/BBC_Home/bbc_home.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../testBBC/src/main/java/com/bbc/Basepage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -940,14 +934,6 @@
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../testBBC/src/main/java/com/bbc/BBC_Homepage/B_homepage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -967,14 +953,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../testBBC/src/test/java/com/bbc/BBC_Homepage/News_Homepage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../testBBC/src/test/java/com/bbc/Commonsteps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -985,8 +963,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../testBBC/src/main/java/com/BrowserFectory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        <state relative-caret-position="233">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../testBBC/src/main/java/com/bbc/BBC_Homepage/B_homepage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../testBBC/src/test/Resources/BBC_Home/bbc_home.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../testBBC/src/test/java/com/bbc/BBC_Homepage/News_Homepage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="48" column="21" lean-forward="false" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
           <folding />
         </state>
       </provider>

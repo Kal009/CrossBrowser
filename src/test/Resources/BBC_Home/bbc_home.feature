@@ -4,4 +4,5 @@ Feature: Bbc fuctionality
     Given user is on homepage
     When  user click on news link
     Then  user can see news page
+    And  quit the browser
 

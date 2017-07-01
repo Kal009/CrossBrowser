@@ -4,6 +4,7 @@ import com.BrowserFectory;
 import com.bbc.Basesteps;
 import com.bbc.News.Newspage;
 import cucumber.api.PendingException;
+import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
@@ -43,5 +44,8 @@ public class News_Homepage extends Basesteps {
     }
 
 
-
+    @And("^quit the browser$")
+    public void quitTheBrowser() throws Throwable {
+       driver.quit();
+    }
 }
